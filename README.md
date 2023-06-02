@@ -50,8 +50,3 @@ docker kill {id container}
 # Hasil Hello Word APACHE   
 ![all](LAMP Docker Compose/phpmyadmin.png)
 
-# Devopss
-# Devopss
-# Devopss
-# devops
-# devops
