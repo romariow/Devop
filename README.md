@@ -52,3 +52,5 @@ docker kill {id container}
 
 # Devopss
 # Devopss
+# Devopss
+# devops
