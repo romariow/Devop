@@ -41,12 +41,4 @@ docker kill {id container}
 # Hasil Container 
 ![all](HasilContainer/dockercontainer.png)
 
-# Hasil Hello Word Nginx
-![all](LEMP Docker Compose/hellowordnginx.png)
-
-# Hasil Hello Word APACHE   
-![all](LAMP Docker Compose/hellowordphp.png)
-
-# Hasil Hello Word PHPMyAdmin 
-![all](LAMP Docker Compose/phpmyadmin.png)
 
