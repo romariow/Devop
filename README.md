@@ -42,7 +42,7 @@ docker kill {id container}
 ![all](HasilContainer/dockercontainer.png)
 
 # Hasil Hello Word Nginx
-![all](LEMP_Docker_Compose/hellowordnginx.png)
+![all](LEMPDockerCompose/hellowordnginx.png)
 
 # Hasil Hello Word APACHE   
 ![all](LAMP Docker Compose/hellowordphp.png)
